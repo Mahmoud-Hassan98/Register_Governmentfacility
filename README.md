@@ -1,8 +1,10 @@
-# React + Vite
+# Register_Governmentfacility
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## :hammer_and_wrench: Project Setup
 
-Currently, two official plugins are available:
+To set up the People Management App locally for development purposes, follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository from GitHub: `git clone https://github.com/Mahmoud-Hassan98/People-Management-App.git](https://github.com/Mahmoud-Hassan98/Register_Governmentfacility.git`
+2. Install the necessary dependencies by running the command: `npm install` If it doesn't work, try `npm install --legacy-peer-deps`
+5. Run the React App using the command `npm run dev`
+6. Open your web browser and navigate to `http://localhost:5173/` to access the application.
